@@ -17,3 +17,6 @@ models/*.keras
 
 #MLflow
 mlruns
+
+#Project
+.env
