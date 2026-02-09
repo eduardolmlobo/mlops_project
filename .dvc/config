@@ -2,3 +2,6 @@
     remote = origin
 ['remote "origin"']
     url = https://dagshub.com/eduardolmlobo/mlops_project.dvc
+    auth = basic
+    user = eduardolmlobo
+    password = 1d0e3d1e70baf41af45de4d7d17281cbe9e5b615
